@@ -1,0 +1,59 @@
+.as{
+	color: red;
+	font-size: 14px;
+	font-family: Algerian;
+	font-style: italic;
+	background:#FFC0CBb ;
+}
+b{
+	background-color:#20B2AA ;
+	color: blue;
+	font-variant: small-caps;
+	font-weight: 600;
+
+}
+.aa{
+	font-size: 30px;
+	background-color:#808000
+	color:red;
+	border-width: 2px;
+	background-image: yellow;
+	text-decoration: overline;
+	filter opacity: 50;
+}
+u{
+	font-size: 20px;
+	background:#FFC0CB
+}
+.hh{
+	color: hsl(315, 100%, 50%);
+}
+.qq{
+	color: red;
+
+}
+.ee{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+filter: opacity(50%);
+}
+em{
+	color:#8420b2 ;
+	font-weight: 400;
+	filter:saturate(200%)}
+}
+.ii{
+	color: rgb(44, 34, 44);
+}
+.rr{
+	filter: blur(2px);
+
+}
+
+.KK{
+	filter:saturate(250%)
+	filter:shadow(color=green , direction=45)
+	 filter:
+	
+	
+}
+}
